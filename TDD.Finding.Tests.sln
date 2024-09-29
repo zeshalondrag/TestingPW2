@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.Finding.Tests", "TDD.Finding.Tests\TDD.Finding.Tests.csproj", "{4154A755-1301-4870-B3E2-7698461F888F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.Finding", "TDD.Finding\TDD.Finding.csproj", "{7D4F66F2-132D-4DD4-B579-327889B0442A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4154A755-1301-4870-B3E2-7698461F888F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4154A755-1301-4870-B3E2-7698461F888F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4154A755-1301-4870-B3E2-7698461F888F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4154A755-1301-4870-B3E2-7698461F888F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4F66F2-132D-4DD4-B579-327889B0442A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4F66F2-132D-4DD4-B579-327889B0442A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4F66F2-132D-4DD4-B579-327889B0442A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4F66F2-132D-4DD4-B579-327889B0442A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAB4F6D-7A02-41F0-9E37-6357F1AB751A}
+	EndGlobalSection
+EndGlobal

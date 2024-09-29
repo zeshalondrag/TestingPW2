@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaney\\source\\repos\\TDD.Finding.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4154A755-1301-4870-B3E2-7698461F888F}|TDD.Finding.Tests\\TDD.Finding.Tests.csproj|c:\\users\\yaney\\source\\repos\\tdd.finding.tests\\tdd.finding.tests\\findingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4154A755-1301-4870-B3E2-7698461F888F}|TDD.Finding.Tests\\TDD.Finding.Tests.csproj|solutionrelative:tdd.finding.tests\\findingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4F66F2-132D-4DD4-B579-327889B0442A}|TDD.Finding\\TDD.Finding.csproj|c:\\users\\yaney\\source\\repos\\tdd.finding.tests\\tdd.finding\\finding1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4F66F2-132D-4DD4-B579-327889B0442A}|TDD.Finding\\TDD.Finding.csproj|solutionrelative:tdd.finding\\finding1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Finding1.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\TDD.Finding.Tests\\TDD.Finding\\Finding1.cs",
+              "RelativeDocumentMoniker": "TDD.Finding\\Finding1.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\TDD.Finding.Tests\\TDD.Finding\\Finding1.cs",
+              "RelativeToolTip": "TDD.Finding\\Finding1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:37:49.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindingTests.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\TDD.Finding.Tests\\TDD.Finding.Tests\\FindingTests.cs",
+              "RelativeDocumentMoniker": "TDD.Finding.Tests\\FindingTests.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\TDD.Finding.Tests\\TDD.Finding.Tests\\FindingTests.cs",
+              "RelativeToolTip": "TDD.Finding.Tests\\FindingTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:24:13.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

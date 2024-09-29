@@ -1,0 +1,6 @@
+C:\Users\yaney\source\repos\TDD.Finding.Tests\TDD.Finding\bin\Debug\TDD.Finding.dll
+C:\Users\yaney\source\repos\TDD.Finding.Tests\TDD.Finding\bin\Debug\TDD.Finding.pdb
+C:\Users\yaney\source\repos\TDD.Finding.Tests\TDD.Finding\obj\Debug\TDD.Finding.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\TDD.Finding.Tests\TDD.Finding\obj\Debug\TDD.Finding.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\TDD.Finding.Tests\TDD.Finding\obj\Debug\TDD.Finding.dll
+C:\Users\yaney\source\repos\TDD.Finding.Tests\TDD.Finding\obj\Debug\TDD.Finding.pdb
